@@ -1,0 +1,7 @@
+animation{
+  name = "library",
+  src_image = "buildings/Cowles Library.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 552, frame_height = 472, origin_x = 0, origin_y = 0 },
+  },
+}

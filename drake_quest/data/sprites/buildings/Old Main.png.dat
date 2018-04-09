@@ -1,0 +1,7 @@
+animation{
+  name = "Old Main",
+  src_image = "buildings/Old Main.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 400, frame_height = 640, origin_x = 8, origin_y = 8 },
+  },
+}

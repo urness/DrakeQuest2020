@@ -1,0 +1,6 @@
+animation{
+  name = "basic_sign",
+  src_image = "basic_sign.png",
+  directions = {
+  },
+}

@@ -1,0 +1,7 @@
+animation{
+  name = "Carnegie",
+  src_image = "buildings/Carnegie.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 280, frame_height = 272, origin_x = 8, origin_y = 8 },
+  },
+}

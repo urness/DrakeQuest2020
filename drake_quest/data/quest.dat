@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.5",
+  write_dir = "34ac2350-d015-4239-bb42-f1ea1214bd15",
+  title = "A Link to Drake U",
+  short_description = "Drake University in a video game",
+  long_description = [[
+]],
+  author = "",
+  quest_version = "",
+  release_date = "",
+  website = "",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "320x240",
+}
+
