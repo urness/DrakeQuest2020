@@ -13,7 +13,8 @@ sprite{ id = "animals/phoenix", description = "Phoenix" }
 sprite{ id = "basic_sign", description = "benjie sign" }
 sprite{ id = "buildings/Carnegie.png", description = "Carnegie" }
 sprite{ id = "buildings/Cowles Library.png", description = "Cowles Library" }
-sprite{ id = "buildings/Old Main.png", description = "old main" }
+sprite{ id = "buildings/Howard.png", description = "Howard" }
+sprite{ id = "buildings/Old Main.png", description = "Old Main" }
 sprite{ id = "citizens/old_man", description = "Old man" }
 sprite{ id = "citizens/old_woman", description = "Old Woman" }
 sprite{ id = "citizens/witch", description = "witch" }

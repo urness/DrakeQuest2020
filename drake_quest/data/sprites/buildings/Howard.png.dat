@@ -1,0 +1,7 @@
+animation{
+  name = "building",
+  src_image = "buildings/Howard.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 328, frame_height = 288, origin_x = 8, origin_y = 8 },
+  },
+}
