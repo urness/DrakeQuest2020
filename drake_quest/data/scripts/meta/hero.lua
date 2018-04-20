@@ -7,7 +7,7 @@ local hero_meta = sol.main.get_metatable("hero")
 local function initialize_hero_features(game)
 
   local hero = game:get_hero()
-  hero:set_tunic_sprite_id("main_heroes/test_player")
+  hero:set_tunic_sprite_id("main_heroes/eldran")
 end
 
 -- Set up Eldran hero sprite on any game that starts.

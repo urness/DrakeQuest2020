@@ -12,7 +12,6 @@ sprite{ id = "animals/mouse", description = "Mouse" }
 sprite{ id = "animals/phoenix", description = "Phoenix" }
 sprite{ id = "basic_sign", description = "benjie sign" }
 sprite{ id = "buildings/Carnegie.png", description = "Carnegie" }
-sprite{ id = "buildings/Cole Complete.png", description = "Cole" }
 sprite{ id = "buildings/Cowles Library.png", description = "Cowles Library" }
 sprite{ id = "buildings/Howard.png", description = "Howard" }
 sprite{ id = "buildings/Old Main.png", description = "Old Main" }
@@ -61,7 +60,7 @@ sprite{ id = "main_heroes/eldran", description = "Eldran" }
 sprite{ id = "main_heroes/robyne", description = "Robyne" }
 sprite{ id = "main_heroes/sword", description = "sword" }
 sprite{ id = "main_heroes/sword_electricity", description = "sword electricity" }
-sprite{ id = "main_heroes/test_player", description = "Character with 8 directional movement" }
+sprite{ id = "main_heroes/test_player", description = "Test character with 8 directional movement" }
 sprite{ id = "main_heroes/trail", description = "trail" }
 sprite{ id = "menus/solarus_logo", description = "Solarus logo" }
 sprite{ id = "shadows/shadow_big", description = "shadow big" }
