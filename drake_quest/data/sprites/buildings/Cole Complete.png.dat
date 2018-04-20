@@ -1,0 +1,7 @@
+animation{
+  name = "Cole",
+  src_image = "buildings/Cole Complete.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 233, frame_height = 190, origin_x = 8, origin_y = 8 },
+  },
+}
