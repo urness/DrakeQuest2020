@@ -60,6 +60,7 @@ sprite{ id = "main_heroes/eldran", description = "Eldran" }
 sprite{ id = "main_heroes/robyne", description = "Robyne" }
 sprite{ id = "main_heroes/sword", description = "sword" }
 sprite{ id = "main_heroes/sword_electricity", description = "sword electricity" }
+sprite{ id = "main_heroes/test_player", description = "Character with 8 directional movement" }
 sprite{ id = "main_heroes/trail", description = "trail" }
 sprite{ id = "menus/solarus_logo", description = "Solarus logo" }
 sprite{ id = "shadows/shadow_big", description = "shadow big" }
