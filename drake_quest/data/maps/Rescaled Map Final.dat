@@ -158663,24 +158663,6 @@ tile{
 
 tile{
   layer = 0,
-  x = 264,
-  y = 2600,
-  width = 8,
-  height = 8,
-  pattern = "grass.soil",
-}
-
-tile{
-  layer = 0,
-  x = 264,
-  y = 2600,
-  width = 8,
-  height = 8,
-  pattern = "grass.soil",
-}
-
-tile{
-  layer = 0,
   x = 392,
   y = 2672,
   width = 8,
@@ -210717,6 +210699,15 @@ tile{
   pattern = "grass.soil.diag.3b",
 }
 
+tile{
+  layer = 0,
+  x = 1248,
+  y = 2848,
+  width = 8,
+  height = 40,
+  pattern = "tree.green.3",
+}
+
 wall{
   layer = 0,
   x = 3960,
@@ -215885,15 +215876,6 @@ tile{
 
 tile{
   layer = 1,
-  x = 2296,
-  y = 3160,
-  width = 48,
-  height = 40,
-  pattern = "tree.yellow.1",
-}
-
-tile{
-  layer = 1,
   x = 2288,
   y = 3152,
   width = 8,
@@ -215903,56 +215885,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 2296,
-  y = 3144,
-  width = 48,
-  height = 16,
-  pattern = "tree.yellow.2",
-}
-
-tile{
-  layer = 1,
-  x = 2344,
-  y = 3152,
-  width = 8,
-  height = 40,
-  pattern = "tree.yellow.4",
-}
-
-tile{
-  layer = 1,
-  x = 2496,
-  y = 3248,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 2496,
-  y = 3264,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
-}
-
-tile{
-  layer = 1,
   x = 2488,
   y = 3256,
   width = 8,
   height = 40,
   pattern = "tree.red.3",
-}
-
-tile{
-  layer = 1,
-  x = 2544,
-  y = 3256,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
 }
 
 tile{
@@ -215984,83 +215921,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 2624,
-  y = 2512,
-  width = 48,
-  height = 40,
-  pattern = "tree.yellow.1",
-}
-
-tile{
-  layer = 1,
-  x = 2624,
-  y = 2496,
-  width = 48,
-  height = 16,
-  pattern = "tree.yellow.2",
-}
-
-tile{
-  layer = 1,
-  x = 2672,
-  y = 2504,
-  width = 8,
-  height = 40,
-  pattern = "tree.yellow.4",
-}
-
-tile{
-  layer = 1,
   x = 2544,
   y = 2360,
   width = 8,
   height = 40,
   pattern = "tree.yellow.3",
-}
-
-tile{
-  layer = 1,
-  x = 2552,
-  y = 2368,
-  width = 48,
-  height = 40,
-  pattern = "tree.yellow.1",
-}
-
-tile{
-  layer = 1,
-  x = 2552,
-  y = 2352,
-  width = 48,
-  height = 16,
-  pattern = "tree.yellow.2",
-}
-
-tile{
-  layer = 1,
-  x = 2600,
-  y = 2360,
-  width = 8,
-  height = 40,
-  pattern = "tree.yellow.4",
-}
-
-tile{
-  layer = 1,
-  x = 2512,
-  y = 2400,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
-  x = 2560,
-  y = 2392,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.4",
 }
 
 tile{
@@ -216083,56 +215948,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 2448,
-  y = 2368,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
-  x = 2496,
-  y = 2360,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 2448,
-  y = 2352,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 2440,
   y = 2360,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 2632,
-  y = 3120,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 2680,
-  y = 3128,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
 }
 
 tile{
@@ -216146,33 +215966,6 @@ tile{
 
 tile{
   layer = 1,
-  x = 2632,
-  y = 3136,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
-}
-
-tile{
-  layer = 1,
-  x = 2664,
-  y = 3160,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 2712,
-  y = 3168,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
-}
-
-tile{
-  layer = 1,
   x = 2656,
   y = 3168,
   width = 8,
@@ -216182,47 +215975,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 2664,
-  y = 3176,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
-}
-
-tile{
-  layer = 1,
-  x = 2640,
-  y = 3216,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 2688,
-  y = 3224,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
-}
-
-tile{
-  layer = 1,
   x = 2632,
   y = 3224,
   width = 8,
   height = 40,
   pattern = "tree.red.3",
-}
-
-tile{
-  layer = 1,
-  x = 2640,
-  y = 3232,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
 }
 
 tile{
@@ -216268,33 +216025,6 @@ tile{
   width = 8,
   height = 40,
   pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 1976,
-  y = 3448,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
-  x = 2024,
-  y = 3440,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 1976,
-  y = 3432,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
 }
 
 tile{
@@ -216425,65 +216155,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 2096,
-  y = 3280,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
-  x = 2144,
-  y = 3272,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 2096,
-  y = 3264,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
-  x = 2016,
-  y = 3280,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
   x = 2064,
   y = 3272,
   width = 8,
   height = 40,
   pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 2016,
-  y = 3264,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
-  x = 1944,
-  y = 3280,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
 }
 
 tile{
@@ -216497,24 +216173,6 @@ tile{
 
 tile{
   layer = 1,
-  x = 1944,
-  y = 3264,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
-  x = 1864,
-  y = 3280,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
   x = 1912,
   y = 3272,
   width = 8,
@@ -216524,38 +216182,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1864,
-  y = 3264,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
-  x = 1792,
-  y = 3280,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
   x = 1840,
   y = 3272,
   width = 8,
   height = 40,
   pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 1792,
-  y = 3264,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
 }
 
 tile{
@@ -216623,65 +216254,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1512,
-  y = 3184,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 1504,
   y = 3192,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 1512,
-  y = 3200,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
-  x = 1560,
-  y = 3192,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 1320,
-  y = 3424,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
-}
-
-tile{
-  layer = 1,
-  x = 1272,
-  y = 3416,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 1272,
-  y = 3432,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
 }
 
 tile{
@@ -216695,56 +216272,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1360,
-  y = 3392,
-  width = 48,
-  height = 40,
-  pattern = "tree.yellow.1",
-}
-
-tile{
-  layer = 1,
-  x = 1360,
-  y = 3376,
-  width = 48,
-  height = 16,
-  pattern = "tree.yellow.2",
-}
-
-tile{
-  layer = 1,
   x = 1352,
   y = 3384,
   width = 8,
   height = 40,
   pattern = "tree.yellow.3",
-}
-
-tile{
-  layer = 1,
-  x = 1408,
-  y = 3384,
-  width = 8,
-  height = 40,
-  pattern = "tree.yellow.4",
-}
-
-tile{
-  layer = 1,
-  x = 1280,
-  y = 3344,
-  width = 48,
-  height = 40,
-  pattern = "tree.yellow.1",
-}
-
-tile{
-  layer = 1,
-  x = 1280,
-  y = 3328,
-  width = 48,
-  height = 16,
-  pattern = "tree.yellow.2",
 }
 
 tile{
@@ -216758,42 +216290,6 @@ tile{
 
 tile{
   layer = 1,
-  x = 1328,
-  y = 3336,
-  width = 8,
-  height = 40,
-  pattern = "tree.yellow.4",
-}
-
-tile{
-  layer = 1,
-  x = 1600,
-  y = 3432,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
-}
-
-tile{
-  layer = 1,
-  x = 1552,
-  y = 3424,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 1552,
-  y = 3440,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
-}
-
-tile{
-  layer = 1,
   x = 1544,
   y = 3432,
   width = 8,
@@ -216803,65 +216299,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1552,
-  y = 3368,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
-}
-
-tile{
-  layer = 1,
-  x = 1504,
-  y = 3360,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 1504,
-  y = 3376,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
-}
-
-tile{
-  layer = 1,
   x = 1496,
   y = 3368,
   width = 8,
   height = 40,
   pattern = "tree.red.3",
-}
-
-tile{
-  layer = 1,
-  x = 1488,
-  y = 3336,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
-}
-
-tile{
-  layer = 1,
-  x = 1440,
-  y = 3328,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 1440,
-  y = 3344,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
 }
 
 tile{
@@ -216929,15 +216371,6 @@ tile{
 
 tile{
   layer = 1,
-  x = 816,
-  y = 2864,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 808,
   y = 2872,
   width = 8,
@@ -216965,29 +216398,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 872,
-  y = 2864,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 864,
   y = 2872,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 872,
-  y = 2880,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
 }
 
 tile{
@@ -217001,29 +216416,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 936,
-  y = 2840,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 928,
   y = 2848,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 936,
-  y = 2856,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
 }
 
 tile{
@@ -217037,29 +216434,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1000,
-  y = 2840,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 992,
   y = 2848,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 1000,
-  y = 2856,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
 }
 
 tile{
@@ -217109,29 +216488,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1136,
-  y = 2840,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 1128,
   y = 2848,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 1136,
-  y = 2856,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
 }
 
 tile{
@@ -217145,15 +216506,6 @@ tile{
 
 tile{
   layer = 1,
-  x = 1200,
-  y = 2840,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 1192,
   y = 2848,
   width = 8,
@@ -217163,65 +216515,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1200,
-  y = 2856,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
-  x = 1248,
-  y = 2848,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 1520,
-  y = 2864,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 1512,
   y = 2872,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 1520,
-  y = 2880,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
-  x = 1568,
-  y = 2872,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 1464,
-  y = 2840,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
 }
 
 tile{
@@ -217235,47 +216533,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1464,
-  y = 2856,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
-}
-
-tile{
-  layer = 1,
-  x = 1512,
-  y = 2848,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 1400,
-  y = 2840,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 1392,
   y = 2848,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 1400,
-  y = 2856,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
 }
 
 tile{
@@ -217289,29 +216551,11 @@ tile{
 
 tile{
   layer = 1,
-  x = 1336,
-  y = 2840,
-  width = 48,
-  height = 16,
-  pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
   x = 1328,
   y = 2848,
   width = 8,
   height = 40,
   pattern = "tree.green.3",
-}
-
-tile{
-  layer = 1,
-  x = 1336,
-  y = 2856,
-  width = 48,
-  height = 40,
-  pattern = "tree.green.1",
 }
 
 tile{
@@ -217357,33 +216601,6 @@ tile{
   width = 8,
   height = 40,
   pattern = "tree.green.4",
-}
-
-tile{
-  layer = 1,
-  x = 1328,
-  y = 2296,
-  width = 8,
-  height = 40,
-  pattern = "tree.red.4",
-}
-
-tile{
-  layer = 1,
-  x = 1280,
-  y = 2288,
-  width = 48,
-  height = 16,
-  pattern = "tree.red.2",
-}
-
-tile{
-  layer = 1,
-  x = 1280,
-  y = 2304,
-  width = 48,
-  height = 40,
-  pattern = "tree.red.1",
 }
 
 tile{
@@ -219040,15 +218257,6 @@ tile{
   width = 48,
   height = 16,
   pattern = "tree.green.2",
-}
-
-tile{
-  layer = 1,
-  x = 1248,
-  y = 2848,
-  width = 8,
-  height = 40,
-  pattern = "tree.green.3",
 }
 
 tile{
@@ -220727,7 +219935,7 @@ tile{
 
 tile{
   layer = 1,
-  x = 1504,
+  x = 1536,
   y = 1760,
   width = 48,
   height = 16,
