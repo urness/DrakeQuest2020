@@ -212298,16 +212298,6 @@ wall{
   stops_projectiles = true,
 }
 
-destination{
-  name = "destination",
-  layer = 0,
-  x = 4072,
-  y = 3213,
-  direction = 3,
-  starting_location_mode = "yes",
-  default = true,
-}
-
 custom_entity{
   layer = 0,
   x = 3968,
@@ -212336,6 +212326,240 @@ custom_entity{
   height = 16,
   direction = 0,
   sprite = "buildings/Jewett.png",
+}
+
+wall{
+  layer = 0,
+  x = 3000,
+  y = 2064,
+  width = 80,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3000,
+  y = 2024,
+  width = 8,
+  height = 40,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 2848,
+  y = 2024,
+  width = 152,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 2848,
+  y = 1856,
+  width = 8,
+  height = 168,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 2856,
+  y = 1856,
+  width = 224,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3072,
+  y = 1864,
+  width = 8,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3072,
+  y = 1880,
+  width = 256,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3320,
+  y = 1864,
+  width = 8,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3320,
+  y = 1856,
+  width = 232,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3544,
+  y = 1864,
+  width = 8,
+  height = 168,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3392,
+  y = 2024,
+  width = 152,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3392,
+  y = 2032,
+  width = 8,
+  height = 40,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3320,
+  y = 2064,
+  width = 72,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3072,
+  y = 2032,
+  width = 256,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3320,
+  y = 2056,
+  width = 8,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 3072,
+  y = 2056,
+  width = 8,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+door{
+  layer = 0,
+  x = 3064,
+  y = 2040,
+  direction = 3,
+  sprite = "",
+}
+
+door{
+  layer = 0,
+  x = 3320,
+  y = 2040,
+  direction = 3,
+  sprite = "",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 3208,
+  y = 2109,
+  direction = 3,
+  starting_location_mode = "yes",
+  default = true,
 }
 
 tile{
