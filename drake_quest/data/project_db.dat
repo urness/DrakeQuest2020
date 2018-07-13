@@ -12,8 +12,10 @@ sprite{ id = "animals/mouse", description = "Mouse" }
 sprite{ id = "animals/phoenix", description = "Phoenix" }
 sprite{ id = "basic_sign", description = "benjie sign" }
 sprite{ id = "buildings/Carnegie.png", description = "Carnegie" }
+sprite{ id = "buildings/Cole.png", description = "Cole Hall" }
 sprite{ id = "buildings/Cowles Library.png", description = "Cowles Library" }
 sprite{ id = "buildings/Howard.png", description = "Howard" }
+sprite{ id = "buildings/Jewett.png", description = "Jewett Dorm" }
 sprite{ id = "buildings/Old Main.png", description = "Old Main" }
 sprite{ id = "citizens/old_man", description = "Old man" }
 sprite{ id = "citizens/old_woman", description = "Old Woman" }

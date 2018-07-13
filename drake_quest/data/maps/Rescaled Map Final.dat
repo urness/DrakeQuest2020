@@ -45074,159 +45074,6 @@ tile{
 
 tile{
   layer = 0,
-  x = 3000,
-  y = 2008,
-  width = 8,
-  height = 64,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 3000,
-  y = 1864,
-  width = 8,
-  height = 144,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
-  x = 2992,
-  y = 1984,
-  width = 8,
-  height = 8,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
-  x = 2864,
-  y = 1976,
-  width = 136,
-  height = 56,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 2864,
-  y = 1968,
-  width = 136,
-  height = 8,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 2864,
-  y = 1864,
-  width = 136,
-  height = 104,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
-  x = 3000,
-  y = 2008,
-  width = 80,
-  height = 64,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 3000,
-  y = 1864,
-  width = 80,
-  height = 144,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
-  x = 3080,
-  y = 1976,
-  width = 8,
-  height = 64,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 3080,
-  y = 1888,
-  width = 8,
-  height = 88,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
-  x = 3088,
-  y = 1976,
-  width = 240,
-  height = 64,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 3088,
-  y = 1888,
-  width = 240,
-  height = 88,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
-  x = 3328,
-  y = 2000,
-  width = 64,
-  height = 72,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 3392,
-  y = 1968,
-  width = 176,
-  height = 64,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 3568,
-  y = 1936,
-  width = 24,
-  height = 64,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 2840,
-  y = 1928,
-  width = 24,
-  height = 64,
-  pattern = "water",
-}
-
-tile{
-  layer = 0,
-  x = 3080,
-  y = 2040,
-  width = 240,
-  height = 32,
-  pattern = "dirt.soil",
-}
-
-tile{
-  layer = 0,
   x = 3312,
   y = 2040,
   width = 16,
@@ -55955,24 +55802,6 @@ tile{
 
 tile{
   layer = 0,
-  x = 2840,
-  y = 1880,
-  width = 24,
-  height = 48,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
-  x = 3568,
-  y = 1880,
-  width = 24,
-  height = 56,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
   x = 2888,
   y = 1568,
   width = 8,
@@ -60239,24 +60068,6 @@ tile{
 
 tile{
   layer = 0,
-  x = 3392,
-  y = 1864,
-  width = 176,
-  height = 104,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
-  x = 3328,
-  y = 1864,
-  width = 64,
-  height = 136,
-  pattern = "water_shallow",
-}
-
-tile{
-  layer = 0,
   x = 3680,
   y = 960,
   width = 144,
@@ -62493,15 +62304,6 @@ tile{
   y = 1840,
   width = 8,
   height = 48,
-  pattern = "clouds",
-}
-
-tile{
-  layer = 0,
-  x = 3560,
-  y = 1840,
-  width = 8,
-  height = 24,
   pattern = "clouds",
 }
 
@@ -210708,6 +210510,150 @@ tile{
   pattern = "tree.green.3",
 }
 
+tile{
+  layer = 0,
+  x = 3552,
+  y = 1888,
+  width = 40,
+  height = 128,
+  pattern = "grass.soil",
+}
+
+tile{
+  layer = 0,
+  x = 3392,
+  y = 2016,
+  width = 176,
+  height = 16,
+  pattern = "grass.soil",
+}
+
+tile{
+  layer = 0,
+  x = 3328,
+  y = 2064,
+  width = 64,
+  height = 8,
+  pattern = "grass.soil",
+}
+
+tile{
+  layer = 0,
+  x = 2840,
+  y = 1904,
+  width = 240,
+  height = 168,
+  pattern = "grass.soil",
+}
+
+tile{
+  layer = 0,
+  x = 3064,
+  y = 2032,
+  width = 272,
+  height = 16,
+  pattern = "dirt.soil",
+}
+
+tile{
+  layer = 0,
+  x = 3064,
+  y = 2040,
+  width = 256,
+  height = 32,
+  pattern = "dirt.soil",
+}
+
+tile{
+  layer = 0,
+  x = 3064,
+  y = 2064,
+  width = 8,
+  height = 8,
+  pattern = "grass.soil",
+}
+
+tile{
+  layer = 0,
+  x = 3072,
+  y = 2072,
+  width = 8,
+  height = 8,
+  pattern = "grass.soil.1",
+}
+
+tile{
+  layer = 0,
+  x = 3064,
+  y = 2064,
+  width = 8,
+  height = 8,
+  pattern = "grass.soil.diag.2",
+}
+
+tile{
+  layer = 0,
+  x = 3328,
+  y = 2064,
+  width = 8,
+  height = 8,
+  pattern = "grass.soil.diag.1",
+}
+
+tile{
+  layer = 0,
+  x = 2840,
+  y = 1888,
+  width = 16,
+  height = 16,
+  pattern = "dirt.soil",
+}
+
+tile{
+  layer = 0,
+  x = 3072,
+  y = 1864,
+  width = 8,
+  height = 24,
+  pattern = "grass.soil",
+}
+
+tile{
+  layer = 0,
+  x = 2840,
+  y = 1896,
+  width = 8,
+  height = 8,
+  pattern = "grass.soil.diag.1",
+}
+
+tile{
+  layer = 0,
+  x = 2840,
+  y = 1904,
+  width = 8,
+  height = 8,
+  pattern = "grass.soil.diag.1b",
+}
+
+tile{
+  layer = 0,
+  x = 3328,
+  y = 1864,
+  width = 264,
+  height = 24,
+  pattern = "house.roof_blast",
+}
+
+tile{
+  layer = 0,
+  x = 3560,
+  y = 1840,
+  width = 8,
+  height = 48,
+  pattern = "clouds",
+}
+
 wall{
   layer = 0,
   x = 3960,
@@ -212369,7 +212315,7 @@ custom_entity{
   width = 16,
   height = 16,
   direction = 0,
-  sprite = "buildings/Cole Complete.png",
+  sprite = "buildings/Cole.png",
 }
 
 custom_entity{
@@ -212380,6 +212326,16 @@ custom_entity{
   height = 16,
   direction = 0,
   sprite = "buildings/Old Main.png",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2856,
+  y = 1869,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "buildings/Jewett.png",
 }
 
 tile{
