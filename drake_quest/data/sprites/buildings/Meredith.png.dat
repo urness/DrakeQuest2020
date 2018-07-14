@@ -1,0 +1,7 @@
+animation{
+  name = "Front",
+  src_image = "buildings/Meredith.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 327, frame_height = 726, origin_x = 8, origin_y = 8 },
+  },
+}
