@@ -3,5 +3,6 @@ animation{
   src_image = "buildings/Moorehouse.png",
   directions = {
     { x = 0, y = 0, frame_width = 280, frame_height = 709, origin_x = 8, origin_y = 8 },
+    { x = 0, y = 0, frame_width = 280, frame_height = 709, origin_x = 263, origin_y = 697 },
   },
 }
