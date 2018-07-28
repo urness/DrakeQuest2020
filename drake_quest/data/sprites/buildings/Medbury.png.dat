@@ -1,0 +1,8 @@
+animation{
+  name = "Front",
+  src_image = "buildings/Medbury.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 399, frame_height = 299, origin_x = 8, origin_y = 8 },
+    { x = 0, y = 0, frame_width = 399, frame_height = 299, origin_x = 8, origin_y = 299 },
+  },
+}
