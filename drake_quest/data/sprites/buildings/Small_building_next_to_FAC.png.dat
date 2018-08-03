@@ -1,0 +1,7 @@
+animation{
+  name = "Front",
+  src_image = "buildings/Small_building_next_to_FAC.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 120, frame_height = 96, origin_x = 8, origin_y = 8 },
+  },
+}
