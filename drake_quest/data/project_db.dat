@@ -24,6 +24,7 @@ sprite{ id = "buildings/Moorehouse.png", description = "Moorehouse Dorm" }
 sprite{ id = "buildings/Old Main.png", description = "Old Main" }
 sprite{ id = "buildings/Olmsted.png", description = "Olmsted" }
 sprite{ id = "buildings/Small_building_next_to_FAC.png", description = "???" }
+sprite{ id = "buildings/Stally.png", description = "Stallnaker hall" }
 sprite{ id = "citizens/old_man", description = "Old man" }
 sprite{ id = "citizens/old_woman", description = "Old Woman" }
 sprite{ id = "citizens/witch", description = "witch" }

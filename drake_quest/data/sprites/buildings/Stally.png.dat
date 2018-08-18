@@ -1,0 +1,7 @@
+animation{
+  name = "Front",
+  src_image = "buildings/Stally.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 242, frame_height = 728, origin_x = 8, origin_y = 8 },
+  },
+}
