@@ -14,6 +14,7 @@ sprite{ id = "basic_sign", description = "benjie sign" }
 sprite{ id = "buildings/Carnegie.png", description = "Carnegie" }
 sprite{ id = "buildings/Cole.png", description = "Cole Hall" }
 sprite{ id = "buildings/Cowles Library.png", description = "Cowles Library" }
+sprite{ id = "buildings/Crawford.png", description = "Crawford hall" }
 sprite{ id = "buildings/Herriott.png", description = "Herriot Hall" }
 sprite{ id = "buildings/Howard.png", description = "Howard" }
 sprite{ id = "buildings/Hubbell.png", description = "Hubbell Dining Hall" }
