@@ -197742,9 +197742,9 @@ tile{
 tile{
   layer = 0,
   x = 1160,
-  y = 640,
+  y = 632,
   width = 112,
-  height = 168,
+  height = 176,
   pattern = "grass.soil",
 }
 
@@ -197769,9 +197769,9 @@ tile{
 tile{
   layer = 0,
   x = 1264,
-  y = 736,
-  width = 136,
-  height = 64,
+  y = 728,
+  width = 144,
+  height = 72,
   pattern = "grass.soil",
 }
 
