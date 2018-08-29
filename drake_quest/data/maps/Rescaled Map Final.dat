@@ -6,7 +6,7 @@ properties{
   min_layer = 0,
   max_layer = 2,
   tileset = "light_world",
-  music = "noah/Title Screen",
+  music = "noah/Orchestra Drake",
 }
 
 tile{
