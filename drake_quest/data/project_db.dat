@@ -106,6 +106,7 @@ music{ id = "eduardo/witch_hut", description = "Witch" }
 music{ id = "noah/Creep Drake", description = "noah/Creep Drake" }
 music{ id = "noah/Drake Synth 2", description = "noah/Drake Synth 2" }
 music{ id = "noah/Orchestra Drake", description = "noah/Orchestra Drake" }
+music{ id = "noah/Orchestra Drake Short", description = "noah/Orchestra Drake Short" }
 music{ id = "noah/Title Screen", description = "noah/Title Screen" }
 
 sound{ id = "arrow_hit", description = "arrow_hit" }
