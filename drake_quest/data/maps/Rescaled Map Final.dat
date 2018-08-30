@@ -212148,15 +212148,6 @@ door{
   sprite = "",
 }
 
-destination{
-  name = "destination_4",
-  layer = 0,
-  x = 656,
-  y = 637,
-  direction = 3,
-  starting_location_mode = "yes",
-}
-
 door{
   layer = 0,
   x = 1120,
@@ -213389,6 +213380,15 @@ door{
   y = 616,
   direction = 3,
   sprite = "",
+}
+
+destination{
+  name = "destination_4",
+  layer = 0,
+  x = 4408,
+  y = 3037,
+  direction = 3,
+  starting_location_mode = "yes",
 }
 
 tile{
