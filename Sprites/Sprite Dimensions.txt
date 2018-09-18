@@ -9,6 +9,7 @@ Every npc needs to have a front, back, left, and right facing sprite
 
 TASKS:
  1) Finish all bulldog sprites, including "animation frames" for moves
+ 2) All-Fours bulldog sprite
  2) Develop enemy sprites, starting with squirrel, squirrel ghost
  3) Create 'generic' sprites for students
  4) Create 'generic' sprites for professors. (current idea - design based off of professor Birch sprite from pokemon)
