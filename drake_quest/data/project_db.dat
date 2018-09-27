@@ -1,4 +1,4 @@
-map{ id = "Rescaled Map Final", description = "Rescaled Map Final" }
+map{ id = "Overworld", description = "Overworld" }
 
 tileset{ id = "castle", description = "Castle" }
 tileset{ id = "light_world", description = "light_world" }

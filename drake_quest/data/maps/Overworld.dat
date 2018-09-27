@@ -211583,10 +211583,10 @@ door{
 }
 
 destination{
-  name = "destination_4",
+  name = "destination_starting",
   layer = 0,
-  x = 4408,
-  y = 3037,
+  x = 5600,
+  y = 3501,
   direction = 3,
   starting_location_mode = "yes",
 }
