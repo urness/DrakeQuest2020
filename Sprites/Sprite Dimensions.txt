@@ -16,14 +16,14 @@ TASKS:
 
 
 Things to animate for Griff:
- 01) Walking from all angles
+ 01) Walking from all angles--Kaela started
  02) Barking
  03) Carrying - walking
  04) Carrying - stopped
  05) Death
  06) Grabbing
  07) Hurt
- 08) Jumping
+ 08) Jumping--Sigurlaug
  09) Pulling
  10) Pushing
  11) Sword holding
