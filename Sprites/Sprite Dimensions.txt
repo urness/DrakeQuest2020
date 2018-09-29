@@ -13,7 +13,8 @@ TASKS:
  2) Develop enemy sprites, starting with squirrel, squirrel ghost
  3) Create 'generic' sprites for students
  4) Create 'generic' sprites for professors. (current idea - design based off of professor Birch sprite from pokemon)
-
+ 5) Magazine enemies
+ 6) Snowmen
 
 Things to animate for Griff:
  01) Walking from all angles--Kaela started
@@ -28,3 +29,5 @@ Things to animate for Griff:
  10) Pushing
  11) Sword holding
  12) Throwing
+ 13) Digging
+ 
