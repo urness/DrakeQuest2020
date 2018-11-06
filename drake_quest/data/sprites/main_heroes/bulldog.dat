@@ -2,9 +2,74 @@ animation{
   name = "stopped",
   src_image = "main_heroes/bulldog.png",
   directions = {
-    { x = 33, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 8 },
-    { x = 50, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 8 },
-    { x = 0, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 8 },
-    { x = 17, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 8 },
+    { x = 33, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
+    { x = 50, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
+    { x = 0, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
+    { x = 17, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
+  },
+}
+animation{
+  name = "carrying (stopped)",
+  src_image = "main_heroes/bulldog animation Carrying.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32 },
+    { x = 22, y = 0, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32 },
+    { x = 44, y = 0, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32 },
+    { x = 66, y = 0, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32 },
+  },
+}
+animation{
+  name = "carrying (walking)",
+  src_image = "main_heroes/bulldog animation Carrying.png",
+  frame_delay = 125,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 35, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 70, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 105, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 139, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32, num_frames = 8 },
+  },
+}
+animation{
+  name = "dead",
+  src_image = "main_heroes/bulldog animation Dying and Hurt.png",
+  directions = {
+    { x = 140, y = 33, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32 },
+    { x = 140, y = 33, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32 },
+    { x = 140, y = 33, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32 },
+    { x = 140, y = 33, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32 },
+  },
+}
+animation{
+  name = "dying",
+  src_image = "main_heroes/bulldog animation Dying and Hurt.png",
+  frame_delay = 225,
+  directions = {
+    { x = 0, y = 0, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32, num_frames = 10, num_columns = 5 },
+    { x = 0, y = 0, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32, num_frames = 10, num_columns = 5 },
+    { x = 0, y = 0, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32, num_frames = 10, num_columns = 5 },
+    { x = 0, y = 0, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32, num_frames = 10, num_columns = 5 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "main_heroes/bulldog animation Dying and Hurt.png",
+  directions = {
+    { x = 0, y = 69, frame_width = 28, frame_height = 33, origin_x = 14, origin_y = 32 },
+    { x = 28, y = 69, frame_width = 28, frame_height = 33, origin_x = 14, origin_y = 32 },
+    { x = 56, y = 69, frame_width = 28, frame_height = 33, origin_x = 14, origin_y = 32 },
+    { x = 84, y = 69, frame_width = 28, frame_height = 33, origin_x = 14, origin_y = 32 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "main_heroes/bulldog animation Benjie.png",
+  frame_delay = 125,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 34, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 68, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 102, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 8 },
   },
 }
