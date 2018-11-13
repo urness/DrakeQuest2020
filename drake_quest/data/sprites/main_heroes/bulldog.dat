@@ -9,6 +9,25 @@ animation{
   },
 }
 animation{
+  name = "Jumping",
+  src_image = "main_heroes/bulldog animation Jumping.png",
+  frame_delay = 300,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
+    { x = 0, y = 34, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
+  },
+}
+animation{
+  name = "Lifting",
+  src_image = "main_heroes/bulldog animation Lifting and Throwing.png",
+  frame_delay = 100,
+  directions = {
+    { x = 0, y = 0, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
+    { x = 0, y = 35, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+  },
+}
+animation{
   name = "carrying (stopped)",
   src_image = "main_heroes/bulldog animation Carrying.png",
   directions = {

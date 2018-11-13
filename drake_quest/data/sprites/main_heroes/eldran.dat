@@ -149,7 +149,7 @@ animation{
 animation{
   name = "lifting",
   src_image = "main_heroes/eldran.png",
-  frame_delay = 100,
+  frame_delay = 300,
   directions = {
     { x = 0, y = 208, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 23, num_frames = 4 },
     { x = 0, y = 232, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 23, num_frames = 4 },
