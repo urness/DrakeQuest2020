@@ -21,10 +21,11 @@ animation{
 animation{
   name = "Lifting",
   src_image = "main_heroes/bulldog animation Lifting and Throwing.png",
-  frame_delay = 100,
+  frame_delay = 250,
   directions = {
     { x = 0, y = 0, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
-    { x = 0, y = 35, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+    { x = 0, y = 38, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+    { x = 0, y = 70, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
   },
 }
 animation{
