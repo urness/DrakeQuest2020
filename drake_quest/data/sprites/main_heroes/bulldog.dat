@@ -68,7 +68,9 @@ animation{
   frame_to_loop_on = 0,
   directions = {
     { x = 0, y = 0, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
-    { x = 0, y = 34, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
+    { x = 0, y = 34, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
+    { x = 0, y = 68, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
+    { x = 0, y = 104, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
   },
 }
 animation{
