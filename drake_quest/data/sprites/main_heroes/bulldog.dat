@@ -9,26 +9,6 @@ animation{
   },
 }
 animation{
-  name = "Jumping",
-  src_image = "main_heroes/bulldog animation Jumping.png",
-  frame_delay = 300,
-  frame_to_loop_on = 0,
-  directions = {
-    { x = 0, y = 0, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
-    { x = 0, y = 34, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
-  },
-}
-animation{
-  name = "Lifting",
-  src_image = "main_heroes/bulldog animation Lifting and Throwing.png",
-  frame_delay = 250,
-  directions = {
-    { x = 0, y = 0, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
-    { x = 0, y = 38, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
-    { x = 0, y = 70, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
-  },
-}
-animation{
   name = "carrying (stopped)",
   src_image = "main_heroes/bulldog animation Carrying.png",
   directions = {
@@ -79,6 +59,38 @@ animation{
     { x = 28, y = 69, frame_width = 28, frame_height = 33, origin_x = 14, origin_y = 32 },
     { x = 56, y = 69, frame_width = 28, frame_height = 33, origin_x = 14, origin_y = 32 },
     { x = 84, y = 69, frame_width = 28, frame_height = 33, origin_x = 14, origin_y = 32 },
+  },
+}
+animation{
+  name = "jumping",
+  src_image = "main_heroes/bulldog animation Jumping.png",
+  frame_delay = 300,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
+    { x = 0, y = 34, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
+  },
+}
+animation{
+  name = "lifting",
+  src_image = "main_heroes/bulldog animation Lifting and Throwing.png",
+  frame_delay = 250,
+  directions = {
+    { x = 0, y = 3, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
+    { x = 0, y = 38, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+    { x = 0, y = 73, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
+    { x = 0, y = 107, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+  },
+}
+animation{
+  name = "throw",
+  src_image = "main_heroes/bulldog animation Lifting and Throwing.png",
+  frame_delay = 50,
+  directions = {
+    { x = 57, y = 3, frame_width = 19, frame_height = 33, origin_x = 8, origin_y = 20, num_frames = 4 },
+    { x = 66, y = 38, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+    { x = 57, y = 73, frame_width = 19, frame_height = 33, origin_x = 8, origin_y = 20, num_frames = 4 },
+    { x = 66, y = 107, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
   },
 }
 animation{
