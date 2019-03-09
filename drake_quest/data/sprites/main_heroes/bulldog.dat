@@ -2,7 +2,7 @@ animation{
   name = "stopped",
   src_image = "main_heroes/bulldog.png",
   directions = {
-    { x = 33, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
+    { x = 34, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
     { x = 50, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
     { x = 0, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
     { x = 17, y = 0, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32 },
@@ -49,6 +49,16 @@ animation{
     { x = 0, y = 0, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32, num_frames = 10, num_columns = 5 },
     { x = 0, y = 0, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32, num_frames = 10, num_columns = 5 },
     { x = 0, y = 0, frame_width = 35, frame_height = 33, origin_x = 17, origin_y = 32, num_frames = 10, num_columns = 5 },
+  },
+}
+animation{
+  name = "grabbing",
+  src_image = "main_heroes/bulldog animation Grabbing.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 22, frame_height = 32, origin_x = 8, origin_y = 8 },
+    { x = 22, y = 0, frame_width = 22, frame_height = 32, origin_x = 8, origin_y = 8 },
+    { x = 44, y = 0, frame_width = 22, frame_height = 32, origin_x = 8, origin_y = 8 },
+    { x = 66, y = 0, frame_width = 22, frame_height = 32, origin_x = 8, origin_y = 8 },
   },
 }
 animation{
