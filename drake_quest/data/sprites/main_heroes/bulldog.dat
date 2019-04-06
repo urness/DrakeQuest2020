@@ -55,10 +55,10 @@ animation{
   name = "grabbing",
   src_image = "main_heroes/bulldog animation Grabbing.png",
   directions = {
-    { x = 0, y = 0, frame_width = 22, frame_height = 32, origin_x = 8, origin_y = 8 },
-    { x = 22, y = 0, frame_width = 22, frame_height = 32, origin_x = 8, origin_y = 8 },
-    { x = 44, y = 0, frame_width = 22, frame_height = 32, origin_x = 8, origin_y = 8 },
-    { x = 66, y = 0, frame_width = 22, frame_height = 32, origin_x = 8, origin_y = 8 },
+    { x = 0, y = 0, frame_width = 22, frame_height = 32, origin_x = 11, origin_y = 31 },
+    { x = 22, y = 0, frame_width = 22, frame_height = 32, origin_x = 11, origin_y = 31 },
+    { x = 44, y = 0, frame_width = 22, frame_height = 32, origin_x = 11, origin_y = 31 },
+    { x = 66, y = 0, frame_width = 22, frame_height = 32, origin_x = 11, origin_y = 31 },
   },
 }
 animation{
@@ -77,10 +77,10 @@ animation{
   frame_delay = 300,
   frame_to_loop_on = 0,
   directions = {
-    { x = 0, y = 0, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
-    { x = 0, y = 34, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
-    { x = 0, y = 68, frame_width = 18, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
-    { x = 0, y = 104, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 16, num_frames = 8 },
+    { x = 0, y = 0, frame_width = 18, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 34, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 68, frame_width = 18, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 8 },
+    { x = 0, y = 104, frame_width = 16, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 8 },
   },
 }
 animation{
@@ -89,9 +89,9 @@ animation{
   frame_delay = 250,
   directions = {
     { x = 0, y = 3, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
-    { x = 0, y = 38, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+    { x = 0, y = 38, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32, num_frames = 4 },
     { x = 0, y = 73, frame_width = 19, frame_height = 33, origin_x = 9, origin_y = 32, num_frames = 4 },
-    { x = 0, y = 107, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+    { x = 0, y = 107, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32, num_frames = 4 },
   },
 }
 animation{
@@ -99,10 +99,10 @@ animation{
   src_image = "main_heroes/bulldog animation Lifting and Throwing.png",
   frame_delay = 50,
   directions = {
-    { x = 57, y = 3, frame_width = 19, frame_height = 33, origin_x = 8, origin_y = 20, num_frames = 4 },
-    { x = 66, y = 38, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
-    { x = 57, y = 73, frame_width = 19, frame_height = 33, origin_x = 8, origin_y = 20, num_frames = 4 },
-    { x = 66, y = 107, frame_width = 22, frame_height = 33, origin_x = 8, origin_y = 8, num_frames = 4 },
+    { x = 57, y = 3, frame_width = 19, frame_height = 33, origin_x = 8, origin_y = 32, num_frames = 4 },
+    { x = 66, y = 38, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32, num_frames = 4 },
+    { x = 57, y = 73, frame_width = 19, frame_height = 33, origin_x = 10, origin_y = 32, num_frames = 4 },
+    { x = 66, y = 107, frame_width = 22, frame_height = 33, origin_x = 11, origin_y = 32, num_frames = 4 },
   },
 }
 animation{
