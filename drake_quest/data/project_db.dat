@@ -69,6 +69,7 @@ sprite{ id = "hero/tunic1", description = "Hero tunic 1" }
 sprite{ id = "main_heroes/bulldog", description = "bulldog" }
 sprite{ id = "main_heroes/eldran", description = "Eldran" }
 sprite{ id = "main_heroes/robyne", description = "Robyne" }
+sprite{ id = "main_heroes/snowman", description = "enemy snowman" }
 sprite{ id = "main_heroes/sword", description = "sword" }
 sprite{ id = "main_heroes/sword_electricity", description = "sword electricity" }
 sprite{ id = "main_heroes/test_player", description = "Test character with 8 directional movement" }

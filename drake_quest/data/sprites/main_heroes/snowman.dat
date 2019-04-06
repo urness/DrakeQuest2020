@@ -1,0 +1,22 @@
+animation{
+  name = "stopped",
+  src_image = "main_heroes/EnemySnowman.png",
+  directions = {
+    { x = 39, y = 1, frame_width = 35, frame_height = 49, origin_x = 8, origin_y = 8 },
+    { x = 74, y = 1, frame_width = 35, frame_height = 49, origin_x = 8, origin_y = 8 },
+    { x = 109, y = 1, frame_width = 35, frame_height = 49, origin_x = 8, origin_y = 8 },
+    { x = 4, y = 1, frame_width = 35, frame_height = 49, origin_x = 8, origin_y = 8 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "main_heroes/snowmanWalk.png",
+  frame_delay = 250,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 5, y = 2, frame_width = 30, frame_height = 50, origin_x = 8, origin_y = 8, num_frames = 6 },
+    { x = 5, y = 109, frame_width = 37, frame_height = 49, origin_x = 8, origin_y = 8, num_frames = 6 },
+    { x = 5, y = 55, frame_width = 30, frame_height = 50, origin_x = 8, origin_y = 8, num_frames = 6 },
+    { x = 5, y = 163, frame_width = 37, frame_height = 49, origin_x = 8, origin_y = 8, num_frames = 6 },
+  },
+}
